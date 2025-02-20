@@ -159,6 +159,7 @@ body {
     border-radius: 1rem; 
     transition: box-shadow 0.3s ease-in-out, transform 0.3s ease-in-out;
     padding: 1.5rem;
+    padding-bottom: 2.3rem;
     display: flex;
     flex-direction: column;
 }
@@ -184,6 +185,7 @@ body {
     left: 0;
     top: 0;
     transition: opacity 0.4s ease-in-out; 
+    border-radius: 1.5rem;
 }
 
 .img-front {
@@ -220,6 +222,12 @@ body {
     text-transform: uppercase;
     font-size: 1.6rem;
     font-weight: 400;
+    cursor: pointer;
+    transition: color 0.3s ease-in-out;
+}
+
+.info-disc h3:hover {
+    color: #c0a367;
 }
 
 .star-calification i {
@@ -242,6 +250,7 @@ body {
     border-radius: .5rem;
     text-align: center;
     text-transform: uppercase;
+    cursor: pointer;
 }
 
 .fa-cart-shopping {
