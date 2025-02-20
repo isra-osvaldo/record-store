@@ -15,5 +15,5 @@
 
 <p>
     <img src="/assets/img/iPhone-14-Pro-Max-473x968 2.png" alt="iPhone 14 Pro Max" width="200" height="409"/>
-    <img src="/assets/img/Macbook-Air-2011x1165 5.png" alt="Macbook Air" width="500"/>
+    <img src="/assets/img/Macbook-Air-2011x1165 3.png" alt="Macbook Air" width="500"/>
 </p>
