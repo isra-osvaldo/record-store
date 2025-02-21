@@ -13,7 +13,7 @@
 > [!TIP]
 > Para visualizar el proyecto en tu navegador puedes utilizar el siguiente enlace: [Ver proyecto](https://record-store-delta.vercel.app/)
 
-<p>
+<!-- <p>
     <img src="/assets/img/iPhone-14-Pro-Max.png" alt="iPhone 14 Pro Max" width="200" height="409"/>
     <img src="/assets/img/macbook-air.png" alt="Macbook Air" width="500"/>
-</p>
+</p> -->
