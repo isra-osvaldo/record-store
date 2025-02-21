@@ -10,8 +10,8 @@
 > [!NOTE]
 > Proyecto realizado validando conocimientos de la propiedad **Grid** en la creación de layouts responsivos.
 
-<!-- > [!TIP]
-> Para visualizar el proyecto en tu navegador puedes utilizar el siguiente enlace: [Ver proyecto](https://isra-osvaldo.github.io/messaging-system/) -->
+> [!TIP]
+> Para visualizar el proyecto en tu navegador puedes utilizar el siguiente enlace: [Ver proyecto](https://record-store-delta.vercel.app/)
 
 <p>
     <img src="/assets/img/iPhone-14-Pro-Max.png" alt="iPhone 14 Pro Max" width="200" height="409"/>

@@ -17,7 +17,7 @@ html {
 
 body {
     display: grid;
-    grid-template-columns: 25rem 1fr;
+    grid-template-columns: 28rem 1fr;
     grid-template-rows: 13rem 1fr 8rem;
     grid-template-areas: 
     'header header'
@@ -203,6 +203,21 @@ body {
     top: 0;
     transition: opacity 0.4s ease-in-out; 
     border-radius: 1.5rem;
+}
+
+.sold-out {
+    position: absolute;
+    background-color: #6c757e;
+    border-radius: .5rem ;
+    padding: .4rem .6rem;
+    color: #fff;
+    text-transform: uppercase;
+    z-index: 10;
+    right: 1.4rem;
+    top: 1.3rem;
+    font-family: "Lato";
+    font-weight: 400;
+    font-size: 1.3rem;
 }
 
 .img-front {
