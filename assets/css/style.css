@@ -116,13 +116,21 @@ body {
 /* SIDEBAR */
 .sidebar {
     grid-area: sidebar;
-    border-right: 1px solid #ebeaea;
+    border-right: 2px solid #ebeaea;
     overflow-y: auto;
 }
 
 .categorias {
     padding-left: 4rem;
     padding-top: 4rem;
+}
+
+.categorias ul li {
+    list-style-type: none;
+}
+
+.categorias ul li label {
+    padding-left: .5rem;
 }
 
 .categorias h3 {
