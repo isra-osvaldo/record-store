@@ -361,13 +361,15 @@ body {
 @media (max-width: 480px) {
     .header {
         min-width: 100vw;
+        justify-content: center;
     }
 
     .logo {
         max-width: 15rem;
+        border: 2px solid yellow;
     }
 
-    .input-search-form,
+    .input-search,
     .search-button,
     .nav-bar,
     .icon-login,
