@@ -401,36 +401,26 @@ body {
     .footer {
         min-width: 100vw;
         min-height: 10rem;
-        flex-direction: column;
     }
 
-    .box-info-logo {
-        order: 1;
-        padding-top: 1rem;
+    .social-networks h3 {
+        font-size: 1.2rem;
+        padding-bottom: 0;
     }
 
     .social-networks {
         order: 2;
         /* border: 2px solid yellow; */
-        margin-bottom: 5rem;
-    }
-
-    .box-info-logo img {
-        width: 3rem;
-        padding-bottom: .5rem;
-    }
-
-    .box-info-logo p {
-        font-size: 1rem;
-        padding-bottom: .5rem;
+        align-items: center;
+        justify-content: center;
     }
 
     .fa-brands {
         font-size: 1.2rem !important; 
     }
 
-    .payment-methods,
-    .social-networks h3 {
+    .box-info-logo,
+    .payment-methods {
         display: none;
     }
 
